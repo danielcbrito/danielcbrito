@@ -1,4 +1,4 @@
-# Olá 👋, eu sou Daniel Cavalcante
+# Olá 👋, eu sou Daniel Cavalcante Brito
 
 🚀 **Desenvolvedor de Sistemas & Automações com IA**  
 🇧🇷 São Paulo, Brasil
