@@ -47,23 +47,20 @@ Foco em **banco de dados, segurança de APIs, integrações e soluções prátic
 
 ## 🚀 Projeto em Destaque
 
-### 🪒 Sistema Operacional para Barbearia — [DUB Agenda](https://dubagenda.lovable.app/)
+### 🪒 Sistema Operacional Completo para Barbearia
 
-Sistema desenvolvido do zero com IA para gerenciar toda a operação de uma barbearia:
+Sistema desenvolvido do zero com IA para gerenciar toda a operação de uma barbearia — composto por dois aplicativos integrados:
 
+| Aplicativo | Descrição | Link |
+|---|---|---|
+| 📱 **DUB Agenda** | App do cliente — agendamentos, histórico e pagamentos | [dubagenda.lovable.app](https://dubagenda.lovable.app/) |
+| ✂️ **Barbeiro DUB** | App do barbeiro — agenda, gestão financeira e controle de acesso | [barbeirodub.lovable.app](https://barbeirodub.lovable.app/) |
+
+**O que foi construído:**
 - Banco de dados estruturado com Supabase, incluindo segurança e controle de acesso por perfil
 - Módulos para clientes, barbeiros e gestão financeira com pagamentos integrados
 - Monitoramento contínuo de logs, falhas e segurança em produção
 - APIs, webhooks e infraestrutura em nuvem
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=danielcbrito&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcbrito&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
