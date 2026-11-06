@@ -53,8 +53,8 @@ Sistema desenvolvido do zero com IA para gerenciar toda a operação de uma barb
 
 | Aplicativo | Descrição | Link |
 |---|---|---|
-| 📱 **DUB Agenda** | App do cliente — agendamentos, histórico e pagamentos | [dubagenda.lovable.app](https://dubagenda.lovable.app/) |
-| ✂️ **Barbeiro DUB** | App do barbeiro — agenda, gestão financeira e controle de acesso | [barbeirodub.lovable.app](https://barbeirodub.lovable.app/) |
+| 📱 **DUB Agenda** | App do cliente agendamentos, histórico e pagamentos | [dubagenda.lovable.app](https://dubagenda.lovable.app/) |
+| ✂️ **Barbeiro DUB** | App do barbeiro agenda, gestão financeira e controle de acesso | [barbeirodub.lovable.app](https://barbeirodub.lovable.app/) |
 
 **O que foi construído:**
 - Banco de dados estruturado com Supabase, incluindo segurança e controle de acesso por perfil
@@ -63,12 +63,5 @@ Sistema desenvolvido do zero com IA para gerenciar toda a operação de uma barb
 - APIs, webhooks e infraestrutura em nuvem
 
 ---
-
-## 💡 Filosofia
-
-> _"Não basta o sistema funcionar — ele precisa ser seguro, escalável e resolver um problema real."_
-
----
-
 ⭐ Se curtir algum projeto, deixa uma estrela no repositório  
 🤝 Aberto a colaborações, freelas e novas oportunidades
